@@ -1,0 +1,30 @@
+C:\Users\PComputer\source\repos\Kumbara\Kumbara\bin\Debug\Kumbara.exe.config
+C:\Users\PComputer\source\repos\Kumbara\Kumbara\bin\Debug\Kumbara.exe
+C:\Users\PComputer\source\repos\Kumbara\Kumbara\bin\Debug\Kumbara.pdb
+C:\Users\PComputer\source\repos\Kumbara\Kumbara\obj\Debug\Kumbara.csprojAssemblyReference.cache
+C:\Users\PComputer\source\repos\Kumbara\Kumbara\obj\Debug\Kumbara.Form1.resources
+C:\Users\PComputer\source\repos\Kumbara\Kumbara\obj\Debug\Kumbara.Properties.Resources.resources
+C:\Users\PComputer\source\repos\Kumbara\Kumbara\obj\Debug\Kumbara.csproj.GenerateResource.cache
+C:\Users\PComputer\source\repos\Kumbara\Kumbara\obj\Debug\Kumbara.csproj.CoreCompileInputs.cache
+C:\Users\PComputer\source\repos\Kumbara\Kumbara\obj\Debug\Kumbara.exe
+C:\Users\PComputer\source\repos\Kumbara\Kumbara\obj\Debug\Kumbara.pdb
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\bin\Debug\Kumbara.exe.config
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\bin\Debug\Kumbara.exe
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\bin\Debug\Kumbara.pdb
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.csprojAssemblyReference.cache
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.Form1.resources
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.Properties.Resources.resources
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.csproj.GenerateResource.cache
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.csproj.CoreCompileInputs.cache
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.exe
+C:\Users\PComputer\Desktop\C# - MSSQL\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.pdb
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\bin\Debug\Kumbara.exe.config
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\bin\Debug\Kumbara.exe
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\bin\Debug\Kumbara.pdb
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.csprojAssemblyReference.cache
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.Form1.resources
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.Properties.Resources.resources
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.csproj.GenerateResource.cache
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.csproj.CoreCompileInputs.cache
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.exe
+C:\Users\PComputer\Desktop\C# - MSSQL -FrondEnd\C#\OOP(Object-Oriented-Programing)\Kerem_UZUN_Kumbara\Kumbara\Kumbara\obj\Debug\Kumbara.pdb
